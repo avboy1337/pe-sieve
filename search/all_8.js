@@ -14,7 +14,7 @@ var searchData=
   ['headers_5fscanner_2ecpp_11',['headers_scanner.cpp',['../headers__scanner_8cpp.html',1,'']]],
   ['headers_5fscanner_2eh_12',['headers_scanner.h',['../headers__scanner_8h.html',1,'']]],
   ['headersscanner_13',['HeadersScanner',['../classpesieve_1_1_headers_scanner.html#ab4b106badf3fd89166b465feeaddb974',1,'pesieve::HeadersScanner::HeadersScanner()'],['../classpesieve_1_1_headers_scanner.html',1,'pesieve::HeadersScanner']]],
-  ['headersscanreport_14',['HeadersScanReport',['../classpesieve_1_1_headers_scan_report.html#a75cc11566ef771f3cc289f37f9ebbc0b',1,'pesieve::HeadersScanReport::HeadersScanReport()'],['../classpesieve_1_1_headers_scan_report.html',1,'pesieve::HeadersScanReport']]],
+  ['headersscanreport_14',['HeadersScanReport',['../classpesieve_1_1_headers_scan_report.html#a3c59fc978f4a4e36b7c71ab13502a2f6',1,'pesieve::HeadersScanReport::HeadersScanReport()'],['../classpesieve_1_1_headers_scan_report.html',1,'pesieve::HeadersScanReport']]],
   ['hfile_15',['hFile',['../namespacepesieve_1_1util.html#abbfc80ee34aa4b5e1dfa78c1537fe405',1,'pesieve::util']]],
   ['hilighted_5fcolor_16',['HILIGHTED_COLOR',['../namespacepesieve.html#a389e872705d6b674eff1f5f907be752f',1,'pesieve']]],
   ['hmodsmax_17',['hModsMax',['../classpesieve_1_1_process_scanner.html#a20d04b847fa4073708935a09b7ce8b6b',1,'pesieve::ProcessScanner']]],
@@ -29,5 +29,7 @@ var searchData=
   ['hooktargetmodule_26',['hookTargetModule',['../classpesieve_1_1_patch_list_1_1_patch.html#acec7a5d8080e88233a3df43d8baf22b5',1,'pesieve::PatchList::Patch']]],
   ['hooktargetresolver_27',['HookTargetResolver',['../classpesieve_1_1_hook_target_resolver.html#a67f45c79aabc8609ff844bfde436bc4d',1,'pesieve::HookTargetResolver::HookTargetResolver()'],['../classpesieve_1_1_hook_target_resolver.html',1,'pesieve::HookTargetResolver']]],
   ['hooktargetva_28',['hookTargetVA',['../classpesieve_1_1_patch_list_1_1_patch.html#a88a970b68970e94884d5f4e2efd80359',1,'pesieve::PatchList::Patch']]],
-  ['hpss_29',['HPSS',['../process__reflection_8cpp.html#a245cc83fbf7f180ff454a487cae263ea',1,'process_reflection.cpp']]]
+  ['hprocess_29',['hProcess',['../struct__t__stack__enum__params.html#a657834de8b3a9b7525907db521be6552',1,'_t_stack_enum_params']]],
+  ['hpss_30',['HPSS',['../process__reflection_8cpp.html#a245cc83fbf7f180ff454a487cae263ea',1,'process_reflection.cpp']]],
+  ['hthread_31',['hThread',['../struct__t__stack__enum__params.html#af39d9900e3d580fea3a16440f979bcef',1,'_t_stack_enum_params']]]
 ];
